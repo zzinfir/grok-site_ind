@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ПожГарант — обслуживание АПС и СОУЭ",
+      "hasCanvas": false,
+      "bodyTextLen": 5120,
+      "bodyTextHash": "8bf5fb3979ecc1f3a5092943e7bf9307cecc4ef23da113701ca31cec9f88e737",
+      "bodyTextPrefix": "К содержанию ПожГарант Услуги Регламент Расчёт Вопросы +7 495 12",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ПожГарант — обслуживание АПС и СОУЭ",
+      "hasCanvas": false,
+      "bodyTextLen": 5055,
+      "bodyTextHash": "41f8995a409ecc55fdf6c35bb6b1e7f36b22096856a2b78cba252e868e72cb66",
+      "bodyTextPrefix": "К содержанию ПожГарант ЛИЦЕНЗИЯ МЧС · МОСКВА И ОБЛАСТЬ · 24/7 По",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
